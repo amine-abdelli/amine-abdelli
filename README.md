@@ -1,16 +1,24 @@
-### Hi there 👋
+# 👋 Bonjour, I'm Amine!
 
-<!--
-**amine-abdelli/amine-abdelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 📍 **Location:** Living in Lille, France
+- 👨‍💻 **Occupation:** Software Engineer
+- 🛠️ **Technologies:** Specializing in Typescript, React.js, Node.js, and Kotlin with Spring Boot
+- 💡 **Side Projects:** Always hacking away in my spare time
+- 🌐 **Proud Creator:** Creator and sole developer of [sqrib.io](https://sqrib.io) - An app to help you improve your typing skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 How to reach me:
+
+Feel free to drop me an [Email](mailto:amine.abdelli@outlook.fr).
+
+---
+
+## 🚀 Fun Fact:
+
+My keyboard never sleeps!
+
+---
+
